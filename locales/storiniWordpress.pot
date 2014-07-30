@@ -1,0 +1,1574 @@
+# Copyright (C) 2014 Behaviour
+# This file is distributed under the same license as the Storini package.
+# Translators:
+# Translators:
+# Caden Lovelace <caden@wearebehaviour.com>, 2014
+# EmmaMeese <meesee@cardiff.ac.uk>, 2014
+# hsnnsh <scarbroughh1@cf.ac.uk>, 2014
+# HuwTegid <huw@mentermon.com>, 2014
+# HuwTegid <huw@mentermon.com>, 2014
+# EmmaMeese <meesee@cardiff.ac.uk>, 2014
+# hsnnsh <scarbroughh1@cf.ac.uk>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Storini\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/storiniWordpress\n"
+"POT-Creation-Date: 2014-06-25 13:00-0000\n"
+"PO-Revision-Date: 2014-07-10 22:53-0000\n"
+"Last-Translator: Peter Wilcox <wilcoxp@cardiff.ac.uk>\n"
+"Language-Team: Welsh (http://www.transifex.com/projects/p/storini/language/"
+"cy/)\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
+"11) ? 2 : 3;\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_n_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11 ../archive.php:11 ../category.php:11 ../home-page.php:16
+#: ../index.php:16 ../page.php:11 ../reporter.php:16 ../search.php:11
+#: ../single.php:11 ../submit.php:16 ../thanks.php:16
+#: ../includes/navi-mobile.inc.php:4
+#, fuzzy
+msgid "Latest"
+msgstr "Diweddaraf"
+
+#: ../404.php:20 ../archive.php:18 ../category.php:37 ../category.php:55
+#: ../home-page.php:67 ../index.php:25 ../page.php:20 ../reporter.php:36
+#: ../search.php:20 ../single.php:20 ../submit.php:36 ../thanks.php:25
+#, fuzzy
+msgid "Menu"
+msgstr "Dewislen"
+
+#: ../404.php:23
+#, fuzzy
+msgid "Sorry"
+msgstr "Ymddiheuriadau"
+
+#: ../404.php:24
+#, fuzzy
+msgid "Page not found"
+msgstr "Methu dod o hyd i'r dudalen"
+
+#: ../404.php:36
+#, fuzzy, php-format
+msgid ""
+"Sorry, we can't find what you're looking for. Try the navigation links above "
+"or visit the <a href='%s'>home page</a>."
+msgstr ""
+"Ymddiheurwn - fedrwn ni ddim dod o hyn i'r hyn rydych yn chwilio amdano.  "
+"Rhowch gynnig ar y dolenni uchod neu ewch i'r <a href='%s'>dudalen gartref</"
+"a>."
+
+#: ../404.php:47 ../page.php:86 ../submit.php:104 ../thanks.php:63
+#, fuzzy
+msgid "Latest news"
+msgstr "Newyddion diweddaraf"
+
+#: ../archive.php:22
+#, fuzzy
+msgid "Headlines tagged:"
+msgstr "Penawdau a dagiwyd:"
+
+#: ../archive.php:23 ../category.php:42 ../category.php:43 ../category.php:60
+#: ../category.php:61
+#, fuzzy, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../archive.php:25
+#, fuzzy
+msgid "Headlines in:"
+msgstr "Penawdau yn:"
+
+#: ../archive.php:26 ../category.php:44 ../category.php:62
+#, fuzzy
+msgid "F Y"
+msgstr "Er gwybodaeth"
+
+#: ../archive.php:54 ../category.php:92
+#, fuzzy
+msgid "Sorry, there are currently no headlines in this area."
+msgstr "Ymddiheuriadau - nid oes penawdau yn yr ardal hon ar hyn o bryd."
+
+#: ../category.php:40 ../category.php:58
+#, fuzzy
+msgid "Latest headlines for:"
+msgstr "Penawdau diweddaraf  ar gyfer:"
+
+#: ../class-tgm-plugin-activation.php:155 ../functions.php:1011
+#, fuzzy
+msgid "Install Required Plugins"
+msgstr "Gosod yr ategion gofynnol"
+
+#: ../class-tgm-plugin-activation.php:156 ../functions.php:1012
+#, fuzzy
+msgid "Install Plugins"
+msgstr "Gosod yr ategion"
+
+#: ../class-tgm-plugin-activation.php:157 ../functions.php:1013
+#, fuzzy, php-format
+msgid "Installing Plugin: %s"
+msgstr "Wrthi'n gosod yr ategyn: %s"
+
+#: ../class-tgm-plugin-activation.php:158
+#, fuzzy
+msgid "Something went wrong."
+msgstr "Aeth rhywbeth o'i le."
+
+#: ../class-tgm-plugin-activation.php:159 ../functions.php:1015
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Mae'r thema hon angen yr ategyn a ganlyn: %1$s."
+msgstr[1] "Mae'r thema hon angen yr ategion a ganlyn: %1$s."
+msgstr[2] "Mae'r thema hon angen yr ategion a ganlyn: %1$s."
+msgstr[3] "Mae'r thema hon angen yr ategion a ganlyn: %1$s. "
+
+#: ../class-tgm-plugin-activation.php:160 ../functions.php:1016
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Mae'r thema hon yn argymell yr ategyn a ganlyn: %1$s."
+msgstr[1] "Mae'r thema hon yn argymell yr ategion a ganlyn: %1$s."
+msgstr[2] "Mae'r thema hon yn argymell yr ategion a ganlyn: %1$s."
+msgstr[3] "Mae'r thema hon yn argymell yr ategion a ganlyn: %1$s."
+
+#: ../class-tgm-plugin-activation.php:161 ../functions.php:1017
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i osod %s ategyn.  "
+"Cysylltwch â gweinyddwr y wefan hon i gael help i osod yr ategyn."
+msgstr[1] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i osod %s o'r "
+"ategion.  Cysylltwch â gweinyddwr y wefan hon i gael help i osod yr ategion."
+msgstr[2] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i osod %s o'r "
+"ategion.  Cysylltwch â gweinyddwr y wefan hon i gael help i osod yr ategion."
+msgstr[3] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i osod %s o'r "
+"ategion.  Cysylltwch â gweinyddwr y wefan hon i gael help i osod yr ategion."
+
+#: ../class-tgm-plugin-activation.php:162 ../functions.php:1018
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Mae'r ategyn gofynnol a ganlyn yn anweithredol ar hyn o bryd: %1$s."
+msgstr[1] ""
+"Mae'r ategion gofynnol a ganlyn yn anweithredol ar hyn o bryd: %1$s."
+msgstr[2] ""
+"Mae'r ategion gofynnol a ganlyn yn anweithredol ar hyn o bryd: %1$s."
+msgstr[3] ""
+"Mae'r ategion gofynnol a ganlyn yn anweithredol ar hyn o bryd: %1$s."
+
+#: ../class-tgm-plugin-activation.php:163 ../functions.php:1019
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Mae'r ategyn a argymhellir a ganlyn yn anweithredol ar hyn o bryd: %1$s."
+msgstr[1] ""
+"Mae'r ategion a argymhellir a ganlyn yn anweithredol ar hyn o bryd: %1$s."
+msgstr[2] ""
+"Mae'r ategion a argymhellir a ganlyn yn anweithredol ar hyn o bryd: %1$s."
+msgstr[3] ""
+"Mae'r ategion a argymhellir a ganlyn yn anweithredol ar hyn o bryd: %1$s."
+
+#: ../class-tgm-plugin-activation.php:164 ../functions.php:1020
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i weithredu'r %s "
+"ategyn.  Cysylltwch â gweinyddwr y wefan hon i gael help i weithredu'r "
+"ategyn."
+msgstr[1] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i weithredu'r %s o "
+"ategion.  Cysylltwch â gweinyddwr y wefan hon i gael help i weithredu'r "
+"ategion."
+msgstr[2] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i weithredu'r %s o "
+"ategion.  Cysylltwch â gweinyddwr y wefan hon i gael help i weithredu'r "
+"ategion."
+msgstr[3] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i weithredu'r %s o "
+"ategion.  Cysylltwch â gweinyddwr y wefan hon i gael help i weithredu'r "
+"ategion."
+
+#: ../class-tgm-plugin-activation.php:165 ../functions.php:1021
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Mae angen diweddaru'r ategyn a ganlyn i'w fersiwn ddiweddaraf i sicrhau ei "
+"fod yn cyfateb i'r eithaf â'r thema hon: %1$s."
+msgstr[1] ""
+"Mae angen diweddaru'r ategion a ganlyn i'w fersiynau diweddaraf i sicrhau eu "
+"bod yn cyfateb i'r eithaf â'r thema hon: %1$s."
+msgstr[2] ""
+"Mae angen diweddaru'r ategion a ganlyn i'w fersiynau diweddaraf i sicrhau eu "
+"bod yn cyfateb i'r eithaf â'r thema hon: %1$s."
+msgstr[3] ""
+"Mae angen diweddaru'r ategion a ganlyn i'w fersiynau diweddaraf i sicrhau eu "
+"bod yn cyfateb i'r eithaf â'r thema hon: %1$s."
+
+#: ../class-tgm-plugin-activation.php:166 ../functions.php:1022
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i ddiweddaru'r %s "
+"ategyn.  Cysylltwch â gweinyddwr y wefan hon i gael help i ddiweddaru'r "
+"ategion."
+msgstr[1] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i ddiweddaru'r %s "
+"ategyn.  Cysylltwch â gweinyddwr y wefan hon i gael help i ddiweddaru'r "
+"ategion."
+msgstr[2] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i ddiweddaru'r%s o "
+"ategion.  Cysylltwch â gweinyddwr y wefan hon i gael help i ddiweddaru'r "
+"ategion."
+msgstr[3] ""
+"Ymddiheuriadau, ond nid oes gennych y caniatâd priodol i ddiweddaru'r %s o "
+"ategion.  Cysylltwch â gweinyddwr y wefan hon i gael help i ddiweddaru'r "
+"ategion."
+
+#: ../class-tgm-plugin-activation.php:167 ../functions.php:1023
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Dechrau gosod ategyn"
+msgstr[1] "Dechrau gosod ategion"
+msgstr[2] "Dechrau gosod ategion"
+msgstr[3] "Gweithredu ategion a osodwyd"
+
+#: ../class-tgm-plugin-activation.php:168 ../functions.php:1024
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Gweithredu ategyn a osodwyd"
+msgstr[1] "Gweithredu ategion a osodwyd"
+msgstr[2] "Gweithredu ategion a osodwyd"
+msgstr[3] "Gweithredu ategion a osodwyd"
+
+#: ../class-tgm-plugin-activation.php:169 ../functions.php:1025
+#, fuzzy
+msgid "Return to Required Plugins Installer"
+msgstr "Dychwelyd i'r Gosodwr Ategion Gofynnol"
+
+#: ../class-tgm-plugin-activation.php:170
+#, fuzzy
+msgid "Return to the dashboard"
+msgstr "Dychwelyd i'r dangosfwrdd"
+
+#: ../class-tgm-plugin-activation.php:171
+#: ../class-tgm-plugin-activation.php:1840 ../functions.php:1026
+#, fuzzy
+msgid "Plugin activated successfully."
+msgstr "Gweithredwyd yr ategyn yn llwyddiannus."
+
+#: ../class-tgm-plugin-activation.php:172
+#: ../class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Cafodd yr ategion canlynol eu diweddaru'n llwyddiannus:"
+msgstr[1] "Cafodd yr ategion canlynol eu diweddaru'n llwyddiannus:"
+msgstr[2] "Cafodd yr ategion canlynol eu diweddaru'n llwyddiannus:"
+msgstr[3] "Cafodd yr ategion canlynol eu diweddaru'n llwyddiannus:"
+
+#: ../class-tgm-plugin-activation.php:173
+#, fuzzy, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Gosodwyd a gweithredwyd yr holl ategion yn llwyddiannus. %1$s"
+
+#: ../class-tgm-plugin-activation.php:174
+#, fuzzy
+msgid "Dismiss this notice"
+msgstr "Diystyru'r hysbysiad hwn"
+
+#: ../class-tgm-plugin-activation.php:1085
+#, fuzzy
+msgid "External Link"
+msgstr "Linc allanol"
+
+#: ../class-tgm-plugin-activation.php:1090
+#, fuzzy
+msgid "Private Repository"
+msgstr "Ystorfa breifat"
+
+#: ../class-tgm-plugin-activation.php:1093
+#, fuzzy
+msgid "Pre-Packaged"
+msgstr "Pecynnwyd ymlaen llaw"
+
+#: ../class-tgm-plugin-activation.php:1097
+#, fuzzy
+msgid "WordPress Repository"
+msgstr "Ystorfa WordPress"
+
+#: ../class-tgm-plugin-activation.php:1100
+#, fuzzy
+msgid "Required"
+msgstr "Gofynnol"
+
+#: ../class-tgm-plugin-activation.php:1100
+#, fuzzy
+msgid "Recommended"
+msgstr "(Argymhellir)"
+
+#: ../class-tgm-plugin-activation.php:1103
+#, fuzzy
+msgid "Not Installed"
+msgstr "Heb ei osod"
+
+#: ../class-tgm-plugin-activation.php:1105
+#, fuzzy
+msgid "Installed But Not Activated"
+msgstr "Gosodwyd a gweithredwyd %1$s yn llwyddiannus."
+
+#: ../class-tgm-plugin-activation.php:1275
+#, fuzzy, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Dim ategion i'w gosod na'u gweithredu. <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Dychwelyd i'r dangosfwrdd</a>"
+
+#: ../class-tgm-plugin-activation.php:1291
+#, fuzzy
+msgid "Plugin"
+msgstr "Ategyn"
+
+#: ../class-tgm-plugin-activation.php:1292
+#, fuzzy
+msgid "Source"
+msgstr "Ffynhonnell"
+
+#: ../class-tgm-plugin-activation.php:1293
+#, fuzzy
+msgid "Type"
+msgstr "Math"
+
+#: ../class-tgm-plugin-activation.php:1294
+#, fuzzy
+msgid "Status"
+msgstr "Statws"
+
+#: ../class-tgm-plugin-activation.php:1312
+#, fuzzy
+msgid "Install"
+msgstr "Gosod"
+
+#: ../class-tgm-plugin-activation.php:1313
+#, fuzzy
+msgid "Activate"
+msgstr "Gweithredu"
+
+#: ../class-tgm-plugin-activation.php:1823
+#, fuzzy
+msgid "Install package not available."
+msgstr "Pecyn gosod ddim ar gael."
+
+#: ../class-tgm-plugin-activation.php:1824
+#, fuzzy, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Llwytho i lawr y pecyn gosod o <span class=\"code\">%s</span>&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1825
+#, fuzzy
+msgid "Unpacking the package&#8230;"
+msgstr "Dad-becynnu'r pecyn&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1826
+#, fuzzy
+msgid "Installing the plugin&#8230;"
+msgstr "Gosod yr ategyn&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1827
+#, fuzzy
+msgid "Plugin install failed."
+msgstr "Methwyd â gosod yr ategyn."
+
+#: ../class-tgm-plugin-activation.php:1828
+#, fuzzy
+msgid "Plugin installed successfully."
+msgstr "Gosodwyd yr ategyn yn llwyddiannus."
+
+#: ../class-tgm-plugin-activation.php:1839
+#, fuzzy
+msgid "Plugin activation failed."
+msgstr "Methwyd â gosod yr ategyn."
+
+#: ../class-tgm-plugin-activation.php:1949
+#, fuzzy
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Mae'r broses osod a gweithredu yn dechrau.  Gallai'r broses hon gymryd peth "
+"amser gyda rhai mathau o letywyr, felly byddwch yn amyneddgar."
+
+#: ../class-tgm-plugin-activation.php:1950
+#, fuzzy, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "Gosodwyd a gweithredwyd %1$s yn llwyddiannus."
+
+#: ../class-tgm-plugin-activation.php:1950
+#: ../class-tgm-plugin-activation.php:1959
+#, fuzzy
+msgid "Show Details"
+msgstr "Dangos y manylion"
+
+#: ../class-tgm-plugin-activation.php:1950
+#: ../class-tgm-plugin-activation.php:1959
+#, fuzzy
+msgid "Hide Details"
+msgstr "Cuddio manylion"
+
+#: ../class-tgm-plugin-activation.php:1951
+#, fuzzy
+msgid "All installations and activations have been completed."
+msgstr "Mae popeth aosodwyd ac a weithredwyd wedi cael eu cwblhau."
+
+#: ../class-tgm-plugin-activation.php:1952
+#, fuzzy, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Wrthi'n gosod a gweithredu'r ategyn %1$s (%2$d/%3$d)"
+
+#: ../class-tgm-plugin-activation.php:1956
+#, fuzzy
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Mae'r broses osod a gweithredu yn dechrau.  Gallai'r broses hon gymryd peth "
+"amser gyda rhai mathau o letywyr, felly byddwch yn amyneddgar."
+
+#: ../class-tgm-plugin-activation.php:1957
+#, fuzzy, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Bu gwall wrth osod %1$s: <strong>%2$s</strong>."
+
+#: ../class-tgm-plugin-activation.php:1958
+#, fuzzy, php-format
+msgid "The installation of %1$s failed."
+msgstr "Methwyd â gosod %1$s."
+
+#: ../class-tgm-plugin-activation.php:1959
+#, fuzzy, php-format
+msgid "%1$s installed successfully."
+msgstr "Gosodwyd %1$s yn llwyddiannus."
+
+#: ../class-tgm-plugin-activation.php:1960
+#, fuzzy
+msgid "All installations have been completed."
+msgstr "Cwblhawyd yr holl osodiadau."
+
+#: ../class-tgm-plugin-activation.php:1961
+#, fuzzy, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Wrthi'n gosod yr ategyn %1$s (%2$d/%3$d)"
+
+#: ../class-tgm-plugin-activation.php:2052
+#, fuzzy
+msgid "Return to the Dashboard"
+msgstr "Dychwelyd i'r dangosfwrdd"
+
+#: ../comments.php:3
+#, fuzzy
+msgid "Comment on this article"
+msgstr "sylw ar yr adroddiad yma"
+
+#: ../comments.php:6
+#, fuzzy
+msgid "Post Comment"
+msgstr "Nodi sylw"
+
+#: ../comments.php:11
+#, fuzzy
+msgid "Name"
+msgstr "Enw"
+
+#: ../comments.php:12
+#, fuzzy
+msgid "Email"
+msgstr "E-bost"
+
+#: ../comments.php:12 ../functions.php:415 ../reporter.php:48
+#, fuzzy
+msgid "Email address"
+msgstr "Cyfeiriad e-bost"
+
+#: ../comments.php:15
+#, fuzzy
+msgid "Comment"
+msgstr "Sylw"
+
+#: ../comments.php:15
+#, fuzzy
+msgid "Your comment"
+msgstr "Eich sylw"
+
+#: ../functions.php:73
+#, fuzzy
+msgid "Pages:"
+msgstr "Tudalennau:"
+
+#: ../functions.php:79
+#, fuzzy
+msgid "Next page"
+msgstr "Tudalen nesaf"
+
+#: ../functions.php:80
+#, fuzzy
+msgid "Previous page"
+msgstr "Tudalen blaenorol"
+
+#: ../functions.php:168 ../home-page.php:25 ../reporter.php:25
+#: ../submit.php:25 ../includes/navi-mobile.inc.php:3
+#, fuzzy
+msgid "Home"
+msgstr "Hafan"
+
+#: ../functions.php:193
+#, fuzzy
+msgid "Latest News"
+msgstr "Newyddion diweddaraf"
+
+#: ../functions.php:216 ../home-page.php:30 ../reporter.php:28
+#: ../submit.php:28 ../includes/footer.inc.php:5
+#: ../includes/navi-mobile.inc.php:11
+#, fuzzy
+msgid "About"
+msgstr "Gwybodaeth"
+
+#: ../functions.php:221 ../includes/footer.inc.php:6
+#: ../includes/navi-mobile.inc.php:12
+#, fuzzy
+msgid "Contact"
+msgstr "Cysylltu"
+
+#: ../functions.php:226 ../functions.php:833 ../includes/footer.inc.php:7
+#, fuzzy
+msgid "Advertising"
+msgstr "Hysbysebu"
+
+#: ../functions.php:238
+#, fuzzy
+msgid "Become a reporter"
+msgstr "Dod yn ohebydd"
+
+#: ../functions.php:251 ../home-page.php:28 ../reporter.php:27
+#: ../submit.php:27 ../includes/footer.inc.php:10
+#: ../includes/navi-mobile.inc.php:8
+#, fuzzy
+msgid "Submit your news"
+msgstr "Argymell eich newyddion"
+
+#: ../functions.php:263
+#, fuzzy
+msgid "Thank you"
+msgstr "Diolch"
+
+#: ../functions.php:266
+#, fuzzy
+msgid "Thank you for submitting your news."
+msgstr "Diolch am argymell eich newyddon"
+
+#: ../functions.php:278
+#, fuzzy
+msgid "Sport"
+msgstr "Chwaraeon"
+
+#: ../functions.php:278
+#, fuzzy
+msgid "Community"
+msgstr "Cymuned"
+
+#: ../functions.php:278
+#, fuzzy
+msgid "Business"
+msgstr "Busnes"
+
+#: ../functions.php:278
+#, fuzzy
+msgid "Education"
+msgstr "Addysg"
+
+#: ../functions.php:279
+#, fuzzy
+msgid "Health"
+msgstr "Iechyd"
+
+#: ../functions.php:279
+#, fuzzy
+msgid "What&#39;s on?"
+msgstr "Beth sy&#39;n digwydd?"
+
+#: ../functions.php:279
+#, fuzzy
+msgid "Lead story"
+msgstr "Prif stori"
+
+#: ../functions.php:321
+#, fuzzy
+msgid "Twitter username"
+msgstr "Enw Trydar"
+
+#: ../functions.php:361 ../functions.php:367 ../single.php:91
+#: ../single.php:226
+#, fuzzy
+msgid "Storini reporters"
+msgstr "Gohebwyr Storini"
+
+#: ../functions.php:370
+#, fuzzy
+msgid "Optionally, credit reporters for this post/article"
+msgstr "Cewch gydnabod gohebwyr ar gyfer y nodyn hwn / yr erthygl hon"
+
+#: ../functions.php:374
+#, fuzzy
+msgid "Reporter name"
+msgstr "Enw'r gohebydd"
+
+#: ../functions.php:387
+#, fuzzy
+msgid "Twitter handle"
+msgstr "Dolen Trydar"
+
+#: ../functions.php:390
+#, fuzzy
+msgid "Optional (don't include the @)"
+msgstr "Dewisol (peidiwch âchynnwys yr @)"
+
+#: ../functions.php:401
+#, fuzzy
+msgid "Web link"
+msgstr "Dolen gwê"
+
+#: ../functions.php:404
+#, fuzzy
+msgid "Optional (must include http://)"
+msgstr "Dewisol (rhaid cynnwys http://)"
+
+#: ../functions.php:431
+#, fuzzy
+msgid "Add a reporter"
+msgstr "Ychwanegu gohebydd"
+
+#: ../functions.php:458
+#, fuzzy
+msgid "Standard post"
+msgstr "Nodyn safonol"
+
+#: ../functions.php:462
+#, fuzzy
+msgid "Header image"
+msgstr "Llun pennawd"
+
+#: ../functions.php:468
+#, fuzzy
+msgid "Image"
+msgstr "Delwedd"
+
+#: ../functions.php:471 ../functions.php:596
+#, fuzzy
+msgid "Ideally, the image should be a minimum width of 630 pixels"
+msgstr "Yn ddelfrydol, dylai'r llun fod o leiaf 630 picsel o led"
+
+#: ../functions.php:478
+#, fuzzy
+msgid "Alt description"
+msgstr "Disgrifiad amgen"
+
+#: ../functions.php:481 ../functions.php:607
+#, fuzzy
+msgid "Optionally, add a short description of image content"
+msgstr "Cewch ddewis ychwanegu disgrifid byr o gynnwys  y llun"
+
+#: ../functions.php:491
+#, fuzzy
+msgid "Credit (name)"
+msgstr "Cydnabyddiaeth (enw)"
+
+#: ../functions.php:494
+#, fuzzy
+msgid "Optionally, add a photographer credit"
+msgstr "Cewch ddewis ychwanegu enw ffotograffydd"
+
+#: ../functions.php:504
+#, fuzzy
+msgid "Credit (link)"
+msgstr "Cydnabyddiaeth (dolen)"
+
+#: ../functions.php:507
+#, fuzzy
+msgid "Optionally, add a URL for the photographer (must include http://)"
+msgstr ""
+"Cewch ddewis ychwanegu URL ar gyfer y ffotograffydd (rhaid cynnwys http://)"
+
+#: ../functions.php:545
+#, fuzzy
+msgid "Include social sharing buttons?"
+msgstr "Cynnwys botymau rhannu cymdeithasol?"
+
+#: ../functions.php:577
+#, fuzzy
+msgid "Gallery post"
+msgstr "Nodyn oriel"
+
+#: ../functions.php:581
+#, fuzzy
+msgid "Add photos"
+msgstr "Ychwanegu ffotograffau"
+
+#: ../functions.php:587
+#, fuzzy
+msgid "Gallery images"
+msgstr "Lluniau'r oriel"
+
+#: ../functions.php:604
+#, fuzzy
+msgid "Alt"
+msgstr "Amgen"
+
+#: ../functions.php:620
+#, fuzzy
+msgid "Add an image"
+msgstr "Ychwanegu llun"
+
+#: ../functions.php:649
+#, fuzzy
+msgid "Theme settings"
+msgstr "Gosodiadau'r thema"
+
+#: ../functions.php:653
+#, fuzzy
+msgid "Appearance"
+msgstr "Ymddangosiad"
+
+#: ../functions.php:659
+#, fuzzy
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:662
+#, fuzzy
+msgid "Minimum image height of 90px"
+msgstr "Lleiafswm uchder y ddelwedd 90px"
+
+#: ../functions.php:669
+#, fuzzy
+msgid "Theme colour"
+msgstr "Lliw'r thema"
+
+#: ../functions.php:672
+#, fuzzy
+msgid "Changes the global theme colour (default theme colour = #f42779)"
+msgstr "Newid lliw y thema gyffredinol (lliw thema diofyn = #f42779)"
+
+#: ../functions.php:677
+#, fuzzy
+msgid "Settings"
+msgstr "Gosodiadau"
+
+#: ../functions.php:683
+#, fuzzy
+msgid "English?"
+msgstr "Saesneg?"
+
+#: ../functions.php:686
+#, fuzzy
+msgid ""
+"Should this theme display in English? Leave unchecked to display in Welsh"
+msgstr ""
+"A ddylai’r thema hwn ymddangos yn Saesneg?  Peidiwch â rhoi tic os ydych "
+"eisiau iddo ymddangos yn Gymraeg."
+
+#: ../functions.php:687
+#, fuzzy
+msgid "Display in English?"
+msgstr "Ymddangos yn Saesneg?"
+
+#: ../functions.php:692
+#, fuzzy
+msgid "Location"
+msgstr "Lleoliad"
+
+#: ../functions.php:695
+#, fuzzy
+msgid "What is the location for your hyperlocal news? (e.g. Cardiff)"
+msgstr "Beth yw'r lleoliad am eich newyddion hyperlleol? (e.e. Caerdydd)"
+
+#: ../functions.php:697
+#, fuzzy
+msgid "City, town or area name"
+msgstr "Dinas, tref, neu enw ardal"
+
+#: ../functions.php:708
+#, fuzzy
+msgid ""
+"Your Twitter username, minus the '@' — This adds your latest tweet to the "
+"home page"
+msgstr ""
+"Eich enw Twitter, heb yr '@' - mae hyn yn ychwanegu eich trydar diweddaraf "
+"at eich dudalen gartref"
+
+#: ../functions.php:718 ../includes/navi-cats.inc.php:12
+#, fuzzy
+msgid "What's on?"
+msgstr "Beth sy'n digwydd?"
+
+#: ../functions.php:721
+#, fuzzy
+msgid ""
+"Include a link to the &quot;What's on?&quot; post category in the top "
+"navigation bar?"
+msgstr ""
+"Cynnwys dolen i'r categori &quot;Beth sy'n digwydd?&quot; ar y bar llywio ar "
+"y brig?"
+
+#: ../functions.php:722
+#, fuzzy
+msgid "Include the &quot;What's on?&quot; category?"
+msgstr "Cynnwys y categori &quot;Beth sy'n digwydd?&quot; ?"
+
+#: ../functions.php:727 ../functions.php:731
+#, fuzzy
+msgid "Integrate with Storini?"
+msgstr "Integreiddio â Storini?"
+
+#: ../functions.php:730
+#, fuzzy
+msgid ""
+"Include a the 'Become a local reporter' and 'Submit your news' (via Storini) "
+"pages?"
+msgstr ""
+"Dylech gynnwys y 'Dod yn ohebydd lleol' a 'Cyflwyno eich newyddion' (drwy "
+"Storini) tudalennau?"
+
+#: ../functions.php:736
+#, fuzzy
+msgid "Social links"
+msgstr "Cysylltiadau cymdeithasol"
+
+#: ../functions.php:745
+#, fuzzy
+msgid "Link to your Facebook Page (must include http://)"
+msgstr "Cysylltiadau â'ch tudalen Facebook (rhaid cynnwys http://)"
+
+#: ../functions.php:758
+#, fuzzy
+msgid "Link to your Twitter page (must include http://)"
+msgstr "Cysylltiadau â'ch tudalen Twitter (rhaid cynnwys http://)"
+
+#: ../functions.php:771
+#, fuzzy
+msgid "Link to your Google+ Page (must include http://)"
+msgstr "Cysylltiadau â'ch tudalen Google+ (rhaid cynnwys http://)"
+
+#: ../functions.php:784
+#, fuzzy
+msgid "Link to your Instagram (must include http://)"
+msgstr "Cysylltiadau â'ch Instagram (rhaid cynnwys http://)"
+
+#: ../functions.php:797
+#, fuzzy
+msgid "Link to your Pinterest page (must include http://)"
+msgstr "Cysylltiadau â'ch tudalen Pinterest (rhaid cynnwys http://)"
+
+#: ../functions.php:810
+#, fuzzy
+msgid "Link to your Vimeo page (must include http://)"
+msgstr "Cysylltiadau â'ch tudalen Vimeo (rhaid cynnwys http://)"
+
+#: ../functions.php:823
+#, fuzzy
+msgid "Link to your YouTube page (must include http://)"
+msgstr "Cysylltiadau â'ch tudalen Youtube (rhaid cynnwys http://)"
+
+#: ../functions.php:839
+#, fuzzy
+msgid "Accept advertising on this website?"
+msgstr "Derbyn hysbysebu ar y wefan hon?"
+
+#: ../functions.php:842
+#, fuzzy
+msgid "Disabling this will remove the advertising banner slots"
+msgstr "Bydd analluogi yn tynnu'r slotiau baner hysbysebu"
+
+#: ../functions.php:843
+#, fuzzy
+msgid "Enable advertising"
+msgstr "Galluogi hysbysebu"
+
+#: ../functions.php:851
+#, fuzzy
+msgid ""
+"If you have a Google AdSense account, copy and paste your ad unit code here. "
+"This banner ad will replace the content of 'Ad slot 1'. You can create a "
+"free AdSense account at: https://www.google.com/adsense/"
+msgstr ""
+"Os oes gennych gyfrif Google AdSense, copïwch a gludiwch eich cod uned hys-"
+"bys yma. Bydd y fanser hon yn cymryd lle cynnwys 'Slot hys-bys 1'. Gallwch "
+"agor cyfrif AdSense am ddim ar: https://www.google.com/adsense/"
+
+#: ../functions.php:859
+#, fuzzy
+msgid "Ad slot 1 (image)"
+msgstr "Slot hys-bys 1 (delwedd)"
+
+#: ../functions.php:862
+#, fuzzy
+msgid "Ad banner/image should be a maximum of 300x250px"
+msgstr "Dylai'r faner/delwedd fod yn llai na 300x250px"
+
+#: ../functions.php:869
+#, fuzzy
+msgid "Ad slot 1 (link)"
+msgstr "Slot hys-bys 1 (dolen)"
+
+#: ../functions.php:872
+#, fuzzy
+msgid "URL of advertiser (must include http://)"
+msgstr "URL hysbysebwr (rhaid cynnwys http://)"
+
+#: ../functions.php:882
+#, fuzzy
+msgid "Ad slot 2 (image)"
+msgstr "Slot hys-bys 2 (delwedd)"
+
+#: ../functions.php:891
+#, fuzzy
+msgid "Ad slot 2 (link)"
+msgstr "Slot hys-bys 2 (dolen)"
+
+#: ../functions.php:903
+#, fuzzy
+msgid "Ad slot 2 visible on mobile?"
+msgstr "Slot hys-bys 2 yn weledol ar ddyfais symudol?"
+
+#: ../functions.php:906
+#, fuzzy
+msgid ""
+"Having two advertising slots on mobile means a larger area for the user to "
+"scroll before to scroll before they get to the content — this could put some "
+"users off..."
+msgstr ""
+"Mae cael dau slot hysbysebu ar ddyfeisiau symudol yn golygu bod angen i'r "
+"defnyddiwr sgrolio mwy cyn iddyn nhw gyrraedd y cynnwys - efallai na fydd "
+"rhai defnyddwyr yn hoffi hynny"
+
+#: ../functions.php:907
+#, fuzzy
+msgid "Visible on mobile?"
+msgstr "Gweledol ar ddyfais symudol?"
+
+#: ../functions.php:912
+#, fuzzy
+msgid "Ad slot 2 visible on posts?"
+msgstr "Slot hys-bys 2 yn weledol ar negeseuon?"
+
+#: ../functions.php:915
+#, fuzzy
+msgid ""
+"Having two advertising slots on archive/tile pages works well, but can be "
+"excessive for posts/articles. Would you like the two ad slots to appear on "
+"posts too, or just archive/tile pages?"
+msgstr ""
+"Mae cael dau slot hysbysebu ar ddyfeisiau symudol yn gweithio'n dda, ond "
+"gall fod yn ormodol ar gyfer nodiadau/erthyglau.  Fyddech chi'n hoffi i'r "
+"ddau slot hys-bys ymddangos ar nodiadau hefyd, neu dim ond tudalennau archif/"
+"teils?"
+
+#: ../functions.php:916
+#, fuzzy
+msgid "Visible on posts?"
+msgstr "Gweledol ar negeseuon?"
+
+#: ../functions.php:927
+#, fuzzy
+msgid "Tracking code"
+msgstr "Cod tracio"
+
+#: ../functions.php:930
+#, fuzzy
+msgid ""
+"Copy and paste your Google Analytics tracking code here. You can create a "
+"free account at: http://www.google.com/analytics/"
+msgstr ""
+"Copïwch a gludiwch eich cod tracio Google Analytics yma. Gallwch agor cyfrif "
+"am ddim ar: http://www.google.com/analytics/"
+
+#: ../functions.php:1014
+#, fuzzy
+msgid "Something went wrong with the plugin API."
+msgstr "Aeth rhywbeth o'i le gydag API yr ategyn."
+
+#: ../functions.php:1027
+#, fuzzy, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Gosodwyd a gweithredwyd yr holl ategion yn llwyddiannus. %s"
+
+#: ../header.php:36
+#, fuzzy
+msgid "Thanks! Your report has been submitted successully."
+msgstr "Diolch! Cyflwynwyd eich adroddiad yn llwyddiannus."
+
+#: ../header.php:42
+#, fuzzy
+msgid ""
+"We’re sorry, there was an error submitting your report. Please try again "
+"later."
+msgstr ""
+"Ymddiheuriadau - bu gwall wrth gyflwyno eich adroddiad.  Rhowch gynnig arall "
+"yn ddiweddarach."
+
+#: ../home-page.php:27 ../reporter.php:26 ../reporter.php:43 ../submit.php:26
+#: ../includes/footer.inc.php:9 ../includes/navi-mobile.inc.php:7
+#, fuzzy
+msgid "Become a local reporter"
+msgstr "Dod yn ohebydd lleol"
+
+#: ../home-page.php:48
+#, fuzzy
+msgid "Read more"
+msgstr "Darllenwch mwy"
+
+#: ../home-page.php:61
+#, fuzzy, php-format
+msgid ""
+"There are no posts! Ready to publish your first post? <a href='%s'>Get "
+"started here</a>"
+msgstr ""
+"Does dim straeon! Ydych chi'n barod i gyhoeddi eich stori gyntaf? <a "
+"href='%s'>Dechreuwch yma</a>"
+
+#: ../home-page.php:71
+#, fuzzy, php-format
+msgid "More latest news in %s"
+msgstr "Mwy o newyddion %s"
+
+#: ../home-page.php:73
+#, fuzzy
+msgid "More latest news"
+msgstr "Mwy o newyddion %s"
+
+#: ../home-page.php:99
+#, fuzzy
+msgid "Follow"
+msgstr "Dilyn"
+
+#: ../home-page.php:104
+#, fuzzy
+msgid "View all headlines"
+msgstr "Gweld holl benawdau"
+
+#: ../home-page.php:146
+#, fuzzy
+msgid "Previous headline"
+msgstr "Pennawd blaenorol"
+
+#: ../home-page.php:147
+#, fuzzy
+msgid "Next headline"
+msgstr "Pennawd nesaf"
+
+#: ../index.php:28
+#, fuzzy
+msgid "Local"
+msgstr "Lleol"
+
+#: ../index.php:28
+#, fuzzy
+msgid "news"
+msgstr "newyddion"
+
+#: ../index.php:29
+#, fuzzy
+msgid "Latest headlines"
+msgstr "Penawdau diweddaraf  ar gyfer:"
+
+#: ../page.php:24 ../thanks.php:29
+#, fuzzy, php-format
+msgid "News in %s"
+msgstr "Newyddion yn %s"
+
+#: ../page.php:26 ../thanks.php:31
+#, fuzzy
+msgid "News"
+msgstr "newyddion"
+
+#: ../page.php:54 ../submit.php:72
+#, fuzzy
+msgid "Share this page"
+msgstr "Rhannu'r dudalen hon"
+
+#: ../page.php:73 ../single.php:107 ../single.php:235
+#, fuzzy
+msgid "Advertisements"
+msgstr "Hysbysebion"
+
+#: ../reporter.php:44
+#, fuzzy
+msgid "Suggest your news."
+msgstr "Awgrymwch eich newyddion."
+
+#: ../reporter.php:44
+#, fuzzy
+msgid "Support your community."
+msgstr "Cefnogwch eich cymuned."
+
+#: ../reporter.php:46
+#, fuzzy
+msgid ""
+"Storini is a new tool that allows you to suggest the news around you. Keep a "
+"record of your reports and build your reputation as you support your "
+"community."
+msgstr ""
+"Mae Storini yn offeryn newydd sy'n eich galluogi i awgrymu'r newyddion o'ch "
+"cwmpas.  Cadwch gofnod o'ch adroddiadu a chynyddwch eich enw da wrth i chi "
+"gefnogi eich cymuned."
+
+#: ../reporter.php:49
+#, fuzzy
+msgid "Password"
+msgstr "Cyfrinair"
+
+#: ../reporter.php:50
+#, fuzzy
+msgid "Start reporting!"
+msgstr "Dechrau gohebu"
+
+#: ../reporter.php:52 ../reporter.php:75
+#, fuzzy
+msgid "Find out more about Storini"
+msgstr "Rhagor o wybodaeth am Storini"
+
+#: ../reporter.php:64
+#, fuzzy
+msgid "You are the reporter"
+msgstr "Chi yw'r gohebydd"
+
+#: ../reporter.php:65
+#, fuzzy
+msgid ""
+"Use the Storini website or smartphone apps to send in reports, however large "
+"or small, to your community paper."
+msgstr ""
+"Defnyddiwch wefan neu apiau ffôn clyfar Storini i anfon adroddiadau - yn "
+"fawr a bach - at eich papur cymunedol lleol."
+
+#: ../reporter.php:68
+#, fuzzy
+msgid "Local journalists write the story"
+msgstr "Newyddiadurwyr lleol yn ysgrifennu'r stori"
+
+#: ../reporter.php:69
+#, fuzzy
+msgid ""
+"Your local news team create better stories when the whole community is "
+"helping to keep them informed of what's happening."
+msgstr ""
+"Bydd eich tîm newyddion lleol yn creu storiau gwell pan fydd yr holl gymuned "
+"yn eu helpu i wybod beth sy'n digwydd."
+
+#: ../reporter.php:72
+#, fuzzy
+msgid "We publish &amp; share together"
+msgstr "Cyhoeddwn a rhannwn gyda'n gilydd"
+
+#: ../reporter.php:73
+#, fuzzy
+msgid ""
+"When your report gets included in a published story, you get the credit with "
+"a joint story byline and link to your website or Twitter address."
+msgstr ""
+"Pan gaiff eich adroddiad ei gynnwys mewn stori a gaiff ei chyhoeddi, fe "
+"gewch chi gydnabyddiaeth ar ffurf eich enw chi a rhywun arall wrth y stori, "
+"ynghyd â dolen at eich gwefan neu gyfeiriad Twitter."
+
+#: ../search.php:23
+#, fuzzy
+msgid "Search results for:"
+msgstr "Chwilio canlyniadau am:"
+
+#: ../search.php:50
+#, fuzzy
+msgid "Sorry, we can't find anything that matches that search."
+msgstr "Ymddiheuriadau, ni allwn ganfod pethau sy'n cyfateb i hynny."
+
+#: ../single.php:57 ../single.php:185
+#, fuzzy
+msgid "Article tags"
+msgstr "Tagiau erthygl"
+
+#: ../single.php:63 ../single.php:191
+#, fuzzy
+msgid "Share this article"
+msgstr "Rhannu'r erthygl hon"
+
+#: ../single.php:74 ../single.php:209
+#, fuzzy
+msgid "Written by"
+msgstr "Ysgrifennwyd gan"
+
+#: ../single.php:91 ../single.php:226
+#, fuzzy
+msgid ""
+"Storini reporters are people who have contributed to this story using "
+"Storini.com"
+msgstr ""
+"Pobl sydd wedi cyfrannu at y stori hon gan ddefnyddio Storini.com yw "
+"gohebwyr Storini"
+
+#: ../single.php:138 ../single.php:266
+#, fuzzy
+msgid "Suggested further reading"
+msgstr "Darllen pellach a awgrymir"
+
+#: ../single.php:178
+#, fuzzy
+msgid "Next article"
+msgstr "Erthygl nesaf"
+
+#: ../submit.php:60
+#, fuzzy
+msgid "What's your headline?"
+msgstr "Beth yw eich pennawd?"
+
+#: ../submit.php:60 ../submit.php:62 ../submit.php:63
+#, fuzzy
+msgid "Optional"
+msgstr "Dewisol"
+
+#: ../submit.php:61
+#, fuzzy
+msgid "What's your story?"
+msgstr "Beth yw eich stori?"
+
+#: ../submit.php:61
+#, fuzzy
+msgid ""
+"Please include as much detail as possible as this will help confirm your "
+"report."
+msgstr ""
+"Cofiwch gynnwys cymaint â phosibl o fanylion, gan y bydd hyn yn helpu i "
+"gadarnhau eich adroddiad."
+
+#: ../submit.php:62
+#, fuzzy
+msgid "Where did this happen?"
+msgstr "Ymhle digwyddodd hyn?"
+
+#: ../submit.php:63
+#, fuzzy
+msgid "When did this happen?"
+msgstr "Pryd ddigwyddodd hyn?"
+
+#: ../submit.php:64
+#, fuzzy
+msgid "Upload a photo"
+msgstr "Llwytho ffotograff i fyny"
+
+#: ../submit.php:65
+#, fuzzy
+msgid "Write a caption to go with your photo"
+msgstr "Ysgrifennwch bennawd i fynd gyda'ch ffotograff"
+
+#: ../submit.php:65
+#, fuzzy
+msgid "What is it? Where is it? What is in the photograph?"
+msgstr "Beth ydyw?  Ymhle mae hwn?  Beth sydd yn y ffotograff?"
+
+#: ../submit.php:66
+#, fuzzy, php-format
+msgid ""
+"I have read, understand and agree to the <a href='%s' "
+"target='_blank'>Storini terms of service</a>"
+msgstr ""
+"Rwyf wedi darllen <a href='%s' target='_blank'>telerau gwasanaeth Storini</"
+"a>, wedi eu deall ac yn cytuno â nhw."
+
+#: ../submit.php:67
+#, fuzzy
+msgid "Send"
+msgstr "Anfon"
+
+#: ../submit.php:91
+#, fuzzy
+msgid "Visit our sponsor"
+msgstr "Ymweld â'n noddwr"
+
+#: ../acf-options-page/acf-options-page.php:30
+#: ../acf-options-page/acf-options-page.php:31
+#, fuzzy
+msgid "Options"
+msgstr "Dewisiadau"
+
+#: ../acf-options-page/acf-options-page.php:201
+#, fuzzy
+msgid "Options Page"
+msgstr "Tudalen dewisiadau"
+
+#: ../acf-options-page/acf-options-page.php:319
+#, fuzzy
+msgid "Options Updated"
+msgstr "Diweddarwyd y dewisiadau"
+
+#: ../acf-options-page/acf-options-page.php:464
+#, fuzzy
+msgid "No Custom Field Group found for the options page"
+msgstr "Methu dod a hyd i Grŵp Maes Pennodol ar gyfer y dudalen ddewisiadau"
+
+#: ../acf-options-page/acf-options-page.php:464
+#, fuzzy
+msgid "Create a Custom Field Group"
+msgstr "Creu Grŵp Maes Pennodol"
+
+#: ../acf-options-page/acf-options-page.php:475
+#, fuzzy
+msgid "Publish"
+msgstr "Cyhoeddi"
+
+#: ../acf-options-page/acf-options-page.php:479
+#, fuzzy
+msgid "Save Options"
+msgstr "Safio dewisiadau"
+
+#: ../acf-repeater/repeater.php:22
+#, fuzzy
+msgid "Repeater"
+msgstr "Ailadroddwr"
+
+#: ../acf-repeater/repeater.php:23 ../acf-repeater/repeater.php:428
+#: ../acf-repeater/repeater.php:640
+#, fuzzy
+msgid "Layout"
+msgstr "dyluniad"
+
+#: ../acf-repeater/repeater.php:160 ../acf-repeater/repeater.php:405
+#, fuzzy
+msgid "Add Row"
+msgstr "Ychwanegu rhes"
+
+#: ../acf-repeater/repeater.php:420
+#, fuzzy
+msgid "New Field"
+msgstr "Maes newydd"
+
+#: ../acf-repeater/repeater.php:421
+#, fuzzy
+msgid "new_field"
+msgstr "Maes newydd"
+
+#: ../acf-repeater/repeater.php:433
+#, fuzzy
+msgid "Repeater Fields"
+msgstr "Ailadroddwr maes"
+
+#: ../acf-repeater/repeater.php:441
+#, fuzzy
+msgid "Field Order"
+msgstr "Trefn y meysydd"
+
+#: ../acf-repeater/repeater.php:442 ../acf-repeater/repeater.php:490
+#, fuzzy
+msgid "Field Label"
+msgstr "Label maes"
+
+#: ../acf-repeater/repeater.php:443 ../acf-repeater/repeater.php:506
+#, fuzzy
+msgid "Field Name"
+msgstr "Enw'r maes"
+
+#: ../acf-repeater/repeater.php:444 ../acf-repeater/repeater.php:521
+#, fuzzy
+msgid "Field Type"
+msgstr "Math o faes"
+
+#: ../acf-repeater/repeater.php:452
+#, fuzzy
+msgid ""
+"No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr ""
+"Dim maes.  Cliciwch ar y botwm \"+ Ychwanegu Is-faes\" i greu eich maes "
+"cyntaf."
+
+#: ../acf-repeater/repeater.php:468 ../acf-repeater/repeater.php:471
+#, fuzzy
+msgid "Edit this Field"
+msgstr "Golygu'r maes hwn"
+
+#: ../acf-repeater/repeater.php:471
+#, fuzzy
+msgid "Edit"
+msgstr "Golygu"
+
+#: ../acf-repeater/repeater.php:472
+#, fuzzy
+msgid "Read documentation for this field"
+msgstr "Darllen dogfennaeth am y maes hwn."
+
+#: ../acf-repeater/repeater.php:472
+#, fuzzy
+msgid "Docs"
+msgstr "Dogfennau"
+
+#: ../acf-repeater/repeater.php:473
+#, fuzzy
+msgid "Duplicate this Field"
+msgstr "Dyblygu'r maes hwn"
+
+#: ../acf-repeater/repeater.php:473
+#, fuzzy
+msgid "Duplicate"
+msgstr "Dyblygu"
+
+#: ../acf-repeater/repeater.php:474
+#, fuzzy
+msgid "Delete this Field"
+msgstr "Dileu'r maes hwn"
+
+#: ../acf-repeater/repeater.php:474
+#, fuzzy
+msgid "Delete"
+msgstr "Dileu"
+
+#: ../acf-repeater/repeater.php:491
+#, fuzzy
+msgid "This is the name which will appear on the EDIT page"
+msgstr "Dyma'r enw a fydd yn ymddangos ar y dudalen GOLYGU"
+
+#: ../acf-repeater/repeater.php:507
+#, fuzzy
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Un gair, dim bylchau.  Caniateir tanlinelli a chyplysnodau"
+
+#: ../acf-repeater/repeater.php:536
+#, fuzzy
+msgid "Field Instructions"
+msgstr "Cyfarwyddiadau'r maes"
+
+#: ../acf-repeater/repeater.php:556
+#, fuzzy
+msgid "Column Width"
+msgstr "Lled y golofn"
+
+#: ../acf-repeater/repeater.php:557
+#, fuzzy
+msgid "Leave blank for auto"
+msgstr "Gadael yn wag ar gyfer y dewis awtomatig"
+
+#: ../acf-repeater/repeater.php:584
+#, fuzzy
+msgid "Save Field"
+msgstr "Cadw'r maes"
+
+#: ../acf-repeater/repeater.php:589
+#, fuzzy
+msgid "Close Field"
+msgstr "Cau'r maes"
+
+#: ../acf-repeater/repeater.php:589
+#, fuzzy
+msgid "Close Sub Field"
+msgstr "Cau'r is-faes"
+
+#: ../acf-repeater/repeater.php:604
+#, fuzzy
+msgid "Drag and drop to reorder"
+msgstr "Llusgo a gollwng i aildrefnu"
+
+#: ../acf-repeater/repeater.php:605
+#, fuzzy
+msgid "+ Add Sub Field"
+msgstr "+ Ychwanegu Is-faes"
+
+#: ../acf-repeater/repeater.php:612
+#, fuzzy
+msgid "Minimum Rows"
+msgstr "Lleiafswm o resi"
+
+#: ../acf-repeater/repeater.php:626
+#, fuzzy
+msgid "Maximum Rows"
+msgstr "Mwyafswm o resi"
+
+#: ../acf-repeater/repeater.php:650
+#, fuzzy
+msgid "Table (default)"
+msgstr "Tabl (diofyn)"
+
+#: ../acf-repeater/repeater.php:651
+#, fuzzy
+msgid "Row"
+msgstr "Rhes"
+
+#: ../acf-repeater/repeater.php:659
+#, fuzzy
+msgid "Button Label"
+msgstr "Botwm label"
+
+#: ../includes/ad-one.inc.php:1 ../includes/ad-two.inc.php:1
+#, fuzzy
+msgid "Advertise on this site?"
+msgstr "Hysbysebu ar y safle yma?"
+
+#: ../includes/footer.inc.php:3
+#, fuzzy
+msgid "Powered by WordPress."
+msgstr "Pwerwyd gan Wordpress"
+
+#: ../includes/navi-global.inc.php:5
+#, fuzzy
+msgid "Search"
+msgstr "Chwilio"
+
+#: ../includes/navi-global.inc.php:6
+#, fuzzy
+msgid "Tags"
+msgstr "Tagiau"
+
+#: ../includes/navi-global.inc.php:7
+#, fuzzy
+msgid "Archive"
+msgstr "Archif"
+
+#: ../includes/navi-global.inc.php:19
+#, fuzzy
+msgid "Search for&hellip;"
+msgstr "Chwilio am&hellip;"
+
+#: ../includes/navi-mobile.inc.php:13
+#, fuzzy
+msgid "Advertise on this site"
+msgstr "Hysbysebu ar y safle yma?"

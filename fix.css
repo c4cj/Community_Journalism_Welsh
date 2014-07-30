@@ -1,0 +1,61 @@
+/* INTERNET EXPLORER IS TERRIBLE STYLES */
+
+
+
+/* CLEARFIX */
+.clearfix { zoom:1; }
+
+
+
+/* IMAGES
+---------------------------------------------------------------------------------------------------------------*/
+#navi-global nav li.icon-search a { background:url(images/ie/search.png) 0 0 no-repeat; }
+#navi-global nav li.icon-tags a { background:url(images/ie/tags.png) 0 0 no-repeat; }
+#navi-global nav li.icon-archive a { background:url(images/ie/archive.png) 0 0 no-repeat; }
+
+#social li.icon-fb a { background:url(images/ie/facebook.png) 0 0 no-repeat; }
+#social li.icon-twitter a { background:url(images/ie/twitter.png) 0 0 no-repeat; }
+#social li.icon-google a { background:url(images/ie/google.png) 0 0 no-repeat; }
+#social li.icon-instagram a { background:url(images/ie/instagram.png) 0 0 no-repeat; }
+#social li.icon-pinterest a { background:url(images/ie/pinterest.png) 0 0 no-repeat; }
+#social li.icon-vimeo a { background:url(images/ie/vimeo.png) 0 0 no-repeat; }
+#social li.icon-youtube a { background:url(images/ie/youtube.png) 0 0 no-repeat; }
+#social li.icon-storini a { background:url(images/ie/storini.png) 0 0 no-repeat; }
+
+.tile { background:url(images/ie/storini.gif) center 0 no-repeat #fff; }
+	.ads { background:none; }
+	.tweet { background:url(images/ie/tweet.png) center 0 no-repeat #2daae1; }
+.tile.business { background-image:url(images/ie/business.gif); }
+.tile.community { background-image:url(images/ie/community.gif); }
+.tile.education { background-image:url(images/ie/education.gif); }
+.tile.health { background-image:url(images/ie/health.gif); }
+.tile.sport { background-image:url(images/ie/sport.gif); }
+.tile.whats-on { background-image:url(images/ie/whats-on.gif); }
+
+.feature-one { background:url(images/ie/feature-one.png) center 0 no-repeat #fff; }
+.feature-two { background:url(images/ie/feature-two.png) center 0 no-repeat #fff; }
+.feature-three { background:url(images/ie/feature-three.png) center 0 no-repeat #fff; }
+
+.become-a-reporter #commentform input[type=text] { background:url(images/ie/email.png) 0 center no-repeat #fff; }
+.become-a-reporter #commentform input[type=password] { background:url(images/ie/password.png) 0 center no-repeat #fff; font-family:Arial, sans-serif; }
+
+.feature-image .caption { background:url(images/ie/caption.png) 0 center no-repeat #fff; }
+
+
+
+/* TRANSPARANCIES
+---------------------------------------------------------------------------------------------------------------*/
+#navi-search, 
+#navi-tags, 
+#navi-archive { 
+	background-color:#000;
+}
+
+
+
+/* GENERAL
+---------------------------------------------------------------------------------------------------------------*/
+#tiles .wrap { max-width:990px; padding-left:30px; }
+.post-body p, .post-body ul, .post-body ol, .post-body blockquote { float:left; clear:both; }
+.become-a-reporter #commentform { width:100%; float:left; clear:both; margin-top:25px; }
+

@@ -1,0 +1,1 @@
+<a href="<?php echo  get_home_url(); ?>/"><?php if(get_field('logo', 'option')) { ?><?php $image = wp_get_attachment_image_src(get_field('logo', 'option'), 'logo'); ?><img src="<?php echo $image[0]; ?>" alt="<?php bloginfo('name'); ?>" /><?php } else { ?><?php bloginfo('name'); ?><?php } ?></a>
