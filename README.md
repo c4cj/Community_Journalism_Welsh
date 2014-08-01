@@ -44,16 +44,6 @@ To update translations from Transifex:
 There's a way of scripting this stuff using wordpress-i18n-tools, but I found it
 more trouble than it's worth.
 
-### Git branches
-
-* `master` is for development.
-* `distro/welsh` is for the Welsh distribution. It differs only in LOCALE.TXT —
-  please be careful not to clobber it.
-* `distro/english` as above, for English.
-* `production` is deprecated and should not be modified.
-
-Automatic updates have been turned off. To turn them back on, git blame this line
-and reverse the changes in this commit.
 
 ### Notes
 
