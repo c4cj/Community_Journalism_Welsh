@@ -6,7 +6,7 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-<title><?php wp_title('|', true, 'right'); ?><?php bloginfo('name'); ?></title>
+<title><?php wp_title('|', true, 'right'); ?><?php bloginfo('name'); ?>: <?php bloginfo('description'); ?></title>
 
 <?php if ( is_home() ) { ?><meta name="description" content="<?php bloginfo('description'); ?>" />
 <?php } elseif (have_posts() && is_single() OR is_page()) { ?><meta name="description" content="<?php while(have_posts()):the_post();
