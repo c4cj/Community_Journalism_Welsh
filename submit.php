@@ -84,11 +84,11 @@
 			</div>
 			<!--/post-left-col-->
 
-			<aside id="post-right-col">
+		<aside id="post-right-col">
 
 				<?php if( get_field('advertising', 'option') ) { ?>
 				<div class="clear article-mod mod-sponsor">
-					<h2 class="sub-header"><?php _e("Visit our sponsor", 'storini'); ?></h2>
+					<h2 class="sub-header"><?php _e("Advertisements", 'storini'); ?></h2>
 					<div class="ads tile">
 						<?php include ("includes/ad-one.inc.php"); ?>
 						<?php if( get_field('ad_posts', 'option') ) { ?>
