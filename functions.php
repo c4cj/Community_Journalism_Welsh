@@ -708,14 +708,14 @@ function load_acf_fields(){
 
 				//Secondary Colour Field
 				
-				array (
-					'key' => 'fieldxyz',
-					'label' => __("Secondary colour", 'storini'),
-					'name' => 'secondary_colour',
-					'type' => 'color picker'
-					'instructions' => __("Changes the secondary theme colour (default secondary colour = #8dc63f), 'storini'"),
-					'default value' => '#8dc63f',
-					),
+			//	array (
+			//		'key' => 'fieldxyz',
+			//		'label' => __("Secondary colour", 'storini'),
+			//		'name' => 'secondary_colour',
+			//		'type' => 'color picker'
+			//		'instructions' => __("Changes the secondary theme colour (default secondary colour = #8dc63f), 'storini'"),
+			//		'default value' => '#8dc63f',
+			//		),
 				
 
 	//Language switcher
