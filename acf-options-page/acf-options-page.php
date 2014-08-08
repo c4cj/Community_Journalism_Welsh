@@ -1,6 +1,5 @@
 <?php
 /*
-Poop: Poop
 Plugin Name: Advanced Custom Fields: Options Page
 Plugin URI: http://www.advancedcustomfields.com/
 Description: This premium Add-on creates a static menu item for the Advanced Custom Fields plugin
