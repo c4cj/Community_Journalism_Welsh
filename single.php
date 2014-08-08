@@ -66,7 +66,7 @@
 						<li><g:plusone size="medium" annotation="none"></g:plusone></li>
 						<li><a href="<?php echo  get_site_url(); ?>//pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="" /></a><span class="share-overlay"></span></li>
 						<li><script type="IN/Share" data-url="<?php the_permalink(); ?>" data-counter="right"></script></li>
-						<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="<?php the_permalink(); ?>" data-via="storini">Tweet</a></li>
+						<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="<?php the_permalink(); ?>">Tweet</a></li>
 					</ul>
 				</div>
 
@@ -194,7 +194,7 @@
 						<li><g:plusone size="medium" annotation="none"></g:plusone></li>
 						<li><a href="<?php echo  get_site_url(); ?>//pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="" /></a><span class="share-overlay"></span></li>
 						<li><script type="IN/Share" data-url="<?php the_permalink(); ?>" data-counter="right"></script></li>
-						<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="<?php the_permalink(); ?>" data-via="storini">Tweet</a></li>
+						<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="<?php the_permalink(); ?>">Tweet</a></li>
 					</ul>
 				</div>
 
