@@ -13,7 +13,6 @@
 		<div id="navi-cats" class="clear">
 			<div class="wrap">
 				<ul>
-					<li><a href="<?php echo  get_site_url(); ?>/newyddion-diweddaraf/"><?php _e("Latest", 'storini'); ?></a></li>
 					<?php include ("includes/navi-cats.inc.php"); ?>
 				</ul>
 			</div>
